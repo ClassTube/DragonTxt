@@ -2,7 +2,7 @@
 {
     "name": "Allinonebot",
     "description": "ALLINONEBOT",
-    "repository": "https://github.com/kd2929/dragon-Extract-29",
+    "repository": "https://github.com/",
     "keywords": [
         "telegram bot",
         "pyrogram"
@@ -10,17 +10,17 @@
     "env": {
             "API_ID": {
             "description": "Your API_ID from https://my.telegram.org/apps",
-            "value": "10577960",
+            "value": "",
             "required": true
         },
         "API_HASH": {
             "description": "Your API_HASH from https://my.telegram.org/apps",       
-            "value": "80fd047285f4e94ca80311928b6bb5da",
+            "value": "",
             "required": true
         },
         "BOT_TOKEN": {
             "description": "Your Bot token from @Botfather",
-            "value": "6232350725:AAFFT1PF5eKJYgTtuHt_DPFrM_u9kJflals",
+            "value": "",
             "required": true
         }
     }
